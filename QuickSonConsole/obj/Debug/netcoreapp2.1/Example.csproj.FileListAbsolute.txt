@@ -1,0 +1,14 @@
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\bin\Debug\netcoreapp2.1\Example.deps.json
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\bin\Debug\netcoreapp2.1\Example.runtimeconfig.json
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\bin\Debug\netcoreapp2.1\Example.runtimeconfig.dev.json
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\bin\Debug\netcoreapp2.1\Example.dll
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\bin\Debug\netcoreapp2.1\Example.pdb
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\bin\Debug\netcoreapp2.1\QuickSon.dll
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\bin\Debug\netcoreapp2.1\QuickSon.pdb
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\obj\Debug\netcoreapp2.1\Example.csprojAssemblyReference.cache
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\obj\Debug\netcoreapp2.1\Example.csproj.CoreCompileInputs.cache
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\obj\Debug\netcoreapp2.1\Example.AssemblyInfoInputs.cache
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\obj\Debug\netcoreapp2.1\Example.AssemblyInfo.cs
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\obj\Debug\netcoreapp2.1\Example.csproj.CopyComplete
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\obj\Debug\netcoreapp2.1\Example.dll
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSonConsole\obj\Debug\netcoreapp2.1\Example.pdb

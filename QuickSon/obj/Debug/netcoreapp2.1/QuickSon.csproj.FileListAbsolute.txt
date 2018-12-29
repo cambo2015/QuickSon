@@ -1,0 +1,9 @@
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSon\bin\Debug\netcoreapp2.1\QuickSon.deps.json
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSon\bin\Debug\netcoreapp2.1\QuickSon.dll
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSon\bin\Debug\netcoreapp2.1\QuickSon.pdb
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSon\obj\Debug\netcoreapp2.1\QuickSon.csprojAssemblyReference.cache
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSon\obj\Debug\netcoreapp2.1\QuickSon.csproj.CoreCompileInputs.cache
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSon\obj\Debug\netcoreapp2.1\QuickSon.AssemblyInfoInputs.cache
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSon\obj\Debug\netcoreapp2.1\QuickSon.AssemblyInfo.cs
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSon\obj\Debug\netcoreapp2.1\QuickSon.dll
+C:\Users\Megan\Documents\Visual Studio 2017\Projects\QuickSon\QuickSon\obj\Debug\netcoreapp2.1\QuickSon.pdb
