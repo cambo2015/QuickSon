@@ -34,5 +34,7 @@ var obj = jsonStr.JsonToObj();
 Console.WriteLine(jsonStr);
 ```
 
-#### - Also included: A Wrapper class included to convert an object to json string
+#### - Also included: 
+-A Wrapper class included to convert an object to json string
+-Quickson builds
 ####  and then convert it back to the orginal object.
